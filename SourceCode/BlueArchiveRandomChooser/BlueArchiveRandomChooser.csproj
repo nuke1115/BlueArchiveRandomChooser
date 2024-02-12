@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <ApplicationIcon>OtherAssets\아이콘.ico</ApplicationIcon>
+    <PackageIcon>아이콘.png</PackageIcon>
+    <BaseOutputPath>E:\visualStudio Output</BaseOutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="OtherAssets\아이콘.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="OtherAssets\Settings\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="OtherAssets\아이콘.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
