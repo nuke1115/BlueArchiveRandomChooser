@@ -1,6 +1,7 @@
 # BlueArchiveRandomChooser
 
 DataBase 수정 관련은 DataBase에 내용을 추가하는법.txt 와 예시 파일.txt를 확인하세요
+
 앱 파일들은 반드시 BlueArchiveRandomChooser 폴더 안에 위치해야합니다
 
 사용,코드 수정,제배포,상업적 이용 전부 상관 없는데,
