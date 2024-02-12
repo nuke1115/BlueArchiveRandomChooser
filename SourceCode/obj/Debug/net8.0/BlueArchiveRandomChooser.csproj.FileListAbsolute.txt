@@ -1,0 +1,17 @@
+E:\visualstudio workstation\BlueArchiveRandomChooser\bin\Debug\net8.0\BlueArchiveRandomChooser.exe
+E:\visualstudio workstation\BlueArchiveRandomChooser\bin\Debug\net8.0\BlueArchiveRandomChooser.deps.json
+E:\visualstudio workstation\BlueArchiveRandomChooser\bin\Debug\net8.0\BlueArchiveRandomChooser.runtimeconfig.json
+E:\visualstudio workstation\BlueArchiveRandomChooser\bin\Debug\net8.0\BlueArchiveRandomChooser.dll
+E:\visualstudio workstation\BlueArchiveRandomChooser\bin\Debug\net8.0\BlueArchiveRandomChooser.pdb
+E:\visualstudio workstation\BlueArchiveRandomChooser\obj\Debug\net8.0\BlueArchiveRandomChooser.GeneratedMSBuildEditorConfig.editorconfig
+E:\visualstudio workstation\BlueArchiveRandomChooser\obj\Debug\net8.0\BlueArchiveRandomChooser.AssemblyInfoInputs.cache
+E:\visualstudio workstation\BlueArchiveRandomChooser\obj\Debug\net8.0\BlueArchiveRandomChooser.AssemblyInfo.cs
+E:\visualstudio workstation\BlueArchiveRandomChooser\obj\Debug\net8.0\BlueArchiveRandomChooser.csproj.CoreCompileInputs.cache
+E:\visualstudio workstation\BlueArchiveRandomChooser\obj\Debug\net8.0\BlueArchiveRandomChooser.dll
+E:\visualstudio workstation\BlueArchiveRandomChooser\obj\Debug\net8.0\refint\BlueArchiveRandomChooser.dll
+E:\visualstudio workstation\BlueArchiveRandomChooser\obj\Debug\net8.0\BlueArchiveRandomChooser.pdb
+E:\visualstudio workstation\BlueArchiveRandomChooser\obj\Debug\net8.0\BlueArchiveRandomChooser.genruntimeconfig.cache
+E:\visualstudio workstation\BlueArchiveRandomChooser\obj\Debug\net8.0\ref\BlueArchiveRandomChooser.dll
+E:\visualstudio workstation\BlueArchiveRandomChooser\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\visualstudio workstation\BlueArchiveRandomChooser\obj\Debug\net8.0\BlueArchiveRandomChooser.csproj.AssemblyReference.cache
+E:\visualstudio workstation\BlueArchiveRandomChooser\obj\Debug\net8.0\BlueArchiveRandomChooser.csproj.CopyComplete
