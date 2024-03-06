@@ -1,5 +1,10 @@
 # BlueArchiveRandomChooser
 
+소스코드가 원인모를 이유로 실행이 안되는 현상이 발생하고 있습니다
+
+원본 파일도 컴퓨터에서 찾을수 없습니다
+=====
+
 DataBase 수정 관련은 DataBase에 내용을 추가하는법.txt 와 예시 파일.txt를 확인하세요
 
 앱 파일들은 반드시 BlueArchiveRandomChooser 폴더 안에 위치해야합니다
